@@ -1,0 +1,146 @@
+h@hashim:~$ Shell t.sh
+cd /home/h/currdeb
+
+ls
+
+a.sh~  makefile~  newdir	Shell.c~      Untitled Document~
+lab0   Makefile   newDir	testLab1.sh~
+lab1   Makefile~  os_lab1_soln	unistall.sh~
+ls -al
+
+total 104
+drwxr-xr-x  7 h h  4096 Nov  2 01:43 .
+drwxr-xr-x 69 h h 12288 Nov  2 01:52 ..
+-rw-r--r--  1 h h     9 Oct 29 13:20 a.sh~
+drwx------  3 h h  4096 Oct 24 15:49 lab0
+drwx------  2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r--  1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r--  1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r--  1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x  2 h h  4096 Nov  2 01:45 newdir
+drwxr-xr-x  3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x  3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r--  1 h h 27868 Nov  1 22:08 Shell.c~
+-rw-------  1 h h 12288 Nov  2 01:40 .swp
+-rw-------  1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x  1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r--  1 h h    20 Oct 29 13:24 Untitled Document~
+ls -a -l
+
+total 104
+drwxr-xr-x  7 h h  4096 Nov  2 01:43 .
+drwxr-xr-x 69 h h 12288 Nov  2 01:52 ..
+-rw-r--r--  1 h h     9 Oct 29 13:20 a.sh~
+drwx------  3 h h  4096 Oct 24 15:49 lab0
+drwx------  2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r--  1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r--  1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r--  1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x  2 h h  4096 Nov  2 01:45 newdir
+drwxr-xr-x  3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x  3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r--  1 h h 27868 Nov  1 22:08 Shell.c~
+-rw-------  1 h h 12288 Nov  2 01:40 .swp
+-rw-------  1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x  1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r--  1 h h    20 Oct 29 13:24 Untitled Document~
+
+
+
+
+/bin/ls -l -a
+
+total 104
+drwxr-xr-x  7 h h  4096 Nov  2 01:43 .
+drwxr-xr-x 69 h h 12288 Nov  2 01:52 ..
+-rw-r--r--  1 h h     9 Oct 29 13:20 a.sh~
+drwx------  3 h h  4096 Oct 24 15:49 lab0
+drwx------  2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r--  1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r--  1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r--  1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x  2 h h  4096 Nov  2 01:45 newdir
+drwxr-xr-x  3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x  3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r--  1 h h 27868 Nov  1 22:08 Shell.c~
+-rw-------  1 h h 12288 Nov  2 01:40 .swp
+-rw-------  1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x  1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r--  1 h h    20 Oct 29 13:24 Untitled Document~
+
+
+	/bin/ls -l 
+
+total 76
+-rw-r--r-- 1 h h     9 Oct 29 13:20 a.sh~
+drwx------ 3 h h  4096 Oct 24 15:49 lab0
+drwx------ 2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r-- 1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r-- 1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r-- 1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x 2 h h  4096 Nov  2 01:45 newdir
+drwxr-xr-x 3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x 3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r-- 1 h h 27868 Nov  1 22:08 Shell.c~
+-rw------- 1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x 1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r-- 1 h h    20 Oct 29 13:24 Untitled Document~
+
+
+vim -g &
+
+
+
+#firefox & # /opt/firefox/firefox www.google.com
+
+
+
+ps 
+
+  PID TTY          TIME CMD
+19582 pts/0    00:00:00 bash
+19626 pts/0    00:00:00 Shell
+19635 pts/0    00:00:00 ps
+/bin/ps
+
+  PID TTY          TIME CMD
+19582 pts/0    00:00:00 bash
+19626 pts/0    00:00:00 Shell
+19636 pts/0    00:00:00 ps
+
+
+pwd
+
+/home/h/currdeb
+mkdir newDir
+
+mkdir: cannot create directory `newDir': File exists
+touch newDir/newFile.txt
+
+cd newDir
+
+vi -g newFile &
+
+2 files to edit
+pwd
+
+/home/h/currdeb/newDir
+
+
+cd ../
+
+pwd
+
+/home/h/currdeb
+wc newDir/newFile.txt
+
+0 0 0 newDir/newFile.txt
+
+
+#cat newDir/newFile.txt -f
+
+
+
+Segmentation fault
+h@hashim:~$ 
+

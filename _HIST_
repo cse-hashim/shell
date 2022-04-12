@@ -1,0 +1,144 @@
+ls
+ls -l
+ls
+ls
+dir
+ls
+dir
+Shell
+x=5
+echo $x
+echo 7
+echo "hello world"
+cat newDir/newFile.txt
+[A[A
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+/bin/ls -l 
+vim
+firefox & 
+ps 
+/bin/ps
+pwd
+mkdir newDir
+touch newDir/newFile.txt
+cd newDir
+vi newFile
+pwd
+cd ../
+pwd
+wc newDir/newFile.txt
+cat newDir/newFile.txt
+x=5
+echo $x
+echo 7
+echo "hello world"
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+/bin/ls -l 
+vim
+firefox & 
+ps 
+/bin/ps
+pwd
+mkdir newDir
+touch newDir/newFile.txt
+cd newDir
+vi newFile
+pwd
+cd ../
+pwd
+wc newDir/newFile.txt
+cat newDir/newFile.txt
+x=5
+echo $x
+echo 7
+echo "hello world"
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+/bin/ls -l 
+vim
+firefox & 
+ps 
+/bin/ps
+pwd
+mkdir newDir
+touch newDir/newFile.txt
+cd newDir
+vi newFile
+pwd
+cd ../
+pwd
+wc newDir/newFile.txt
+cat newDir/newFile.txt
+x=5
+echo $x
+echo 7
+echo "hello world"
+cd /home/h/currdeb
+ls
+ls -al
+ls -a -l
+/bin/ls -l -a
+/bin/ls -l 
+vim -g &
+ps 
+/bin/ps
+pwd
+mkdir newDir
+touch newDir/newFile.txt
+cd newDir
+vi -g newFile &
+pwd
+cd ../
+pwd
+wc newDir/newFile.txt
+x=5
+echo $x
+echo 7
+echo "hello world"
+ls
+ls
+p=õéÿ
+ls
+`I2óÿ
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ÐkÎèÿ
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+[A
+[B
+ls
+dir
+ls
+ls
+ls
+cd newDir
+ls
+mkfile
+mkdir
+mkdir sa
+ls
+ls
+ls

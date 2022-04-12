@@ -1,0 +1,331 @@
+h@hashim:~$ Shell
+######################################################################################################################################################
+##                                                                                                                                              [R] ##
+##  H                  H            A            SSSSSSSSSSSSSSSSSSSS  H                  H  IIIIIIIIIIIIIIIIIIIII  MMM                     MMM     ##
+##  H                  H           A A           S                     H                  H            I            M  M                   M  M     ##
+##  H                  H          A   A          S                     H                  H            I            M   M                 M   M     ##
+##  H                  H         A     A         S                     H                  H            I            M    M               M    M     ##
+##  H                  H        A       A        S                     H                  H            I            M     M             M     M     ##
+##  HHHHHHHHHHHHHHHHHHHH       AAAAAAAAAAA       SSSSSSSSSSSSSSSSSSSS  HHHHHHHHHHHHHHHHHHHH            I            M      M           M      M     ##
+##  H                  H      A           A                         S  H                  H            I            M       M         M       M     ##
+##  H                  H     A             A                        S  H                  H            I            M        M       M        M     ##
+##  H                  H    A               A                       S  H                  H            I            M         M     M         M     ##
+##  H                  H   A                 A                      S  H                  H            I            M          M   M          M     ##
+##  H                  H  A                   A  SSSSSSSSSSSSSSSSSSSS  H                  H  IIIIIIIIIIIIIIIIIIIII  M           MMM           M     ##
+##                                                                                                                                                  ##
+######################################################################################################################################################
+                                                                                                                                                      
+                                                     HI               h! WELCOME TO HASHIM SHELL! ENJOY :)                                            
+                                                                                                                                                      
+
+h@Shell:/home/h> cd currdeb
+h@Shell:/home/h/currdeb>       ls     #ls !!!!!
+a.sh~  lab1	  Makefile   newDir	   Shell.c~	 unistall.sh~
+lab0   makefile~  Makefile~  os_lab1_soln  testLab1.sh~  Untitled Document~
+h@Shell:/home/h/currdeb> ls -al
+total 100
+drwxr-xr-x  6 h h  4096 Nov  2 01:39 .
+drwxr-xr-x 69 h h 12288 Nov  2 01:40 ..
+-rw-r--r--  1 h h     9 Oct 29 13:20 a.sh~
+drwx------  3 h h  4096 Oct 24 15:49 lab0
+drwx------  2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r--  1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r--  1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r--  1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x  3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x  3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r--  1 h h 27868 Nov  1 22:08 Shell.c~
+-rw-------  1 h h 12288 Nov  2 01:40 .swp
+-rw-------  1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x  1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r--  1 h h    20 Oct 29 13:24 Untitled Document~
+h@Shell:/home/h/currdeb> ls -a -l
+total 100
+drwxr-xr-x  6 h h  4096 Nov  2 01:39 .
+drwxr-xr-x 69 h h 12288 Nov  2 01:40 ..
+-rw-r--r--  1 h h     9 Oct 29 13:20 a.sh~
+drwx------  3 h h  4096 Oct 24 15:49 lab0
+drwx------  2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r--  1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r--  1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r--  1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x  3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x  3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r--  1 h h 27868 Nov  1 22:08 Shell.c~
+-rw-------  1 h h 12288 Nov  2 01:40 .swp
+-rw-------  1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x  1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r--  1 h h    20 Oct 29 13:24 Untitled Document~
+h@Shell:/home/h/currdeb> la
+*** ERROR: exec failed
+: No such file or directory
+h@Shell:/home/h/currdeb> 
+h@Shell:/home/h/currdeb> 
+h@Shell:/home/h/currdeb>    
+h@Shell:/home/h/currdeb>     #adsf
+h@Shell:/home/h/currdeb>    	     # dfasd   	 adfaf	fsf
+h@Shell:/home/h/currdeb> 	
+h@Shell:/home/h/currdeb> /bin/ls -l -a
+total 100
+drwxr-xr-x  6 h h  4096 Nov  2 01:39 .
+drwxr-xr-x 69 h h 12288 Nov  2 01:40 ..
+-rw-r--r--  1 h h     9 Oct 29 13:20 a.sh~
+drwx------  3 h h  4096 Oct 24 15:49 lab0
+drwx------  2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r--  1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r--  1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r--  1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x  3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x  3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r--  1 h h 27868 Nov  1 22:08 Shell.c~
+-rw-------  1 h h 12288 Nov  2 01:40 .swp
+-rw-------  1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x  1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r--  1 h h    20 Oct 29 13:24 Untitled Document~
+h@Shell:/home/h/currdeb> 	/bin/ls -l #\t
+total 72
+-rw-r--r-- 1 h h     9 Oct 29 13:20 a.sh~
+drwx------ 3 h h  4096 Oct 24 15:49 lab0
+drwx------ 2 h h  4096 Oct 28 19:29 lab1
+-rw-r--r-- 1 h h   173 Nov  1 22:59 makefile~
+-rw-r--r-- 1 h h   164 Nov  1 23:23 Makefile
+-rw-r--r-- 1 h h   173 Nov  1 22:59 Makefile~
+drwxr-xr-x 3 h h  4096 Nov  1 23:18 newDir
+drwxr-xr-x 3 h h  4096 Nov  2 01:32 os_lab1_soln
+-rw-r--r-- 1 h h 27868 Nov  1 22:08 Shell.c~
+-rw------- 1 h h   316 Oct 30 18:31 testLab1.sh~
+-rwxr-xr-x 1 h h    21 Oct 29 13:24 unistall.sh~
+-rw-r--r-- 1 h h    20 Oct 29 13:24 Untitled Document~
+h@Shell:/home/h/currdeb> vim
+h@Shell:/home/h/currdeb> firefox &
+h@Shell:/home/h/currdeb> *** ERROR: exec failed
+: Permission denied
+
+h@Shell:/home/h/currdeb> ps
+  PID TTY          TIME CMD
+19305 pts/0    00:00:00 bash
+19349 pts/0    00:00:00 Shell
+19398 pts/0    00:00:00 ps
+h@Shell:/home/h/currdeb> /bin/ps
+  PID TTY          TIME CMD
+19305 pts/0    00:00:00 bash
+19349 pts/0    00:00:00 Shell
+19399 pts/0    00:00:00 ps
+h@Shell:/home/h/currdeb> 
+h@Shell:/home/h/currdeb> pwd
+/home/h/currdeb
+h@Shell:/home/h/currdeb> mkdir newDir
+mkdir: cannot create directory `newDir': File exists
+h@Shell:/home/h/currdeb> mkdir newdir
+h@Shell:/home/h/currdeb> touch newdir/newFile
+h@Shell:/home/h/currdeb> cd newdir
+h@Shell:/home/h/currdeb/newdir> vi newFile
+h@Shell:/home/h/currdeb/newdir> pwd
+/home/h/currdeb/newdir
+h@Shell:/home/h/currdeb/newdir> 
+h@Shell:/home/h/currdeb/newDir> cd ../
+h@Shell:/home/h/currdeb> pwd
+/home/h/currdeb
+h@Shell:/home/h/currdeb> wc newdir/newFile.txt
+wc: newdir/newFile.txt: No such file or directory
+h@Shell:/home/h/currdeb> wc newdir/newFile
+1 1 7 newdir/newFile
+h@Shell:/home/h/currdeb> cat newdir/newFile
+hashim
+h@Shell:/home/h/currdeb> # this is a comment
+h@Shell:/home/h/currdeb> x=5
+h@Shell:/home/h/currdeb> y=hi hi
+not a valid command: Success
+h@Shell:/home/h/currdeb> y=hi
+h@Shell:/home/h/currdeb> z="av as fd"   
+h@Shell:/home/h/currdeb> c='df df'
+h@Shell:/home/h/currdeb> echo $x
+5
+h@Shell:/home/h/currdeb> echo $y
+hi
+h@Shell:/home/h/currdeb> echo $z
+av as fd
+h@Shell:/home/h/currdeb> echo $c
+df df
+h@Shell:/home/h/currdeb> echo $HOME
+/home/h
+h@Shell:/home/h/currdeb> echo "hello world"
+hello world
+h@Shell:/home/h/currdeb> history
+[0]	ls
+[1]	ls -l
+[2]	ls
+[3]	ls
+[4]	dir
+[5]	ls
+[6]	dir
+[7]	Shell
+[8]	x=5
+[9]	echo $x
+[10]	echo 7
+[11]	echo "hello world"
+[14]	lst newDir/newFile.txt
+[15]	ls -al
+[16]	ls -a -l
+[17]	/bin/ls -l -a
+[18]	/bin/ls -l 
+[19]	vim
+[20]	firefox & 
+[21]	ps 
+[22]	/bin/ps
+[23]	pwd
+[24]	mkdir newDir
+[25]	touch newDir/newFile.txt
+[26]	cd newDir
+[27]	vi newFile
+[28]	pwd
+[29]	cd ../
+[30]	pwd
+[31]	wc newDir/newFile.txt
+[32]	cat newDir/newFile.txt
+[33]	x=5
+[34]	echo $x
+[35]	echo 7
+[36]	echo "hello world"
+[37]	ls
+[38]	ls -al
+[39]	ls -a -l
+[40]	/bin/ls -l -a
+[41]	/bin/ls -l 
+[42]	vim
+[43]	firefox & 
+[44]	ps 
+[45]	/bin/ps
+[46]	pwd
+[47]	mkdir newDir
+[48]	touch newDir/newFile.txt
+[49]	cd newDir
+[50]	vi newFile
+[51]	pwd
+[52]	cd ../
+[53]	pwd
+[54]	wc newDir/newFile.txt
+[55]	cat newDir/newFile.txt
+[56]	x=5
+[57]	echo $x
+[58]	echo 7
+[59]	echo "hello world"
+[60]	ls
+[61]	ls -al
+[62]	ls -a -l
+[63]	/bin/ls -l -a
+[64]	/bin/ls -l 
+[65]	vim
+[66]	firefox & 
+[67]	ps 
+[68]	/bin/ps
+[69]	pwd
+[70]	mkdir newDir
+[71]	touch newDir/newFile.txt
+[72]	cd newDir
+[73]	vi newFile
+[74]	pwd
+[75]	cd ../
+[76]	pwd
+[77]	wc newDir/newFile.txt
+[78]	cat newDir/newFile.txt
+[79]	x=5
+[80]	echo $x
+[81]	echo 7
+[82]	echo "hello world"
+[83]	cd /home/h/currdeb
+[84]	ls
+[85]	ls -al
+[86]	ls -a -l
+[87]	/bin/ls -l -a
+[88]	/bin/ls -l 
+[89]	vim -g &
+[90]	ps 
+[91]	/bin/ps
+[92]	pwd
+[93]	mkdir newDir
+[94]	touch newDir/newFile.txt
+[95]	cd newDir
+[96]	vi -g newFile &
+[97]	pwd
+[98]	cd ../
+[99]	pwd
+[100]	wc newDir/newFile.txt
+[101]	x=5
+[102]	echo $x
+[103]	echo 7
+[104]	echo "hello world"
+[105]	ls
+[106]	ls
+[107]	p=���
+[108]	ls
+[109]	`I2��
+[110]	ls
+[111]	ls
+[112]	ls
+[113]	ls
+[114]	ls
+[115]	ls
+[116]	ls
+[117]	ls
+[118]	ls
+[119]	�k���
+[120]	ls
+[121]	ls
+[122]	ls
+[123]	ls
+[124]	ls
+[125]	ls
+[126]	ls
+[127]	ls
+[128]	ls
+[130]	
+[131]	ls
+[132]	dir
+[133]	ls
+[134]	ls
+[135]	ls
+[136]	cd newDir
+[137]	ls
+[138]	mkfile
+[139]	mkdir
+[140]	mkdir sa
+[141]	ls
+[142]	ls
+[143]	ls
+[144]	cat p
+[145]	cat currdeb
+[146]	cd currdeb
+[147]	ls
+[148]	cat Makefile
+[149]	cp Makefile mkfile
+[150]	ls
+[151]	rm mkfile
+[152]	ls
+[153]	rm
+[154]	ls
+[155]	cd currdeb/newDir
+[156]	cd ../
+[157]	pwd
+[158]	wc newdir/newFile.txt
+[159]	wc newdir/newFile
+[160]	cat newdir/newFile
+[161]	x=5
+[162]	y=hi hi
+[163]	y=hi
+[164]	z="ab cd ef
+[165]	z="av as fd"
+[166]	c='df df'
+[167]	echo $x
+[168]	echo $y
+[169]	echo $z
+[170]	echo $c
+[171]	echo $HOME
+[172]	echo "hello world"
+h@Shell:/home/h/currdeb> history 171
+/home/h
+h@Shell:/home/h/currdeb> 
+h@Shell:/home/h/currdeb> exit
+h@hashim:~$ 
+
+

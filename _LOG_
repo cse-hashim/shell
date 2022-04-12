@@ -1,0 +1,77 @@
+
+-log file created in path=/home/h/_LOG_
+-shell started- in interactive mode
+-i will notify user to write command
+-i will read command to variable {line}
+-line entered is:ls
+-line after tolower:ls
+-line after removintg extra spaces:ls
+-line after removing prefix and postfix spaces:ls
+-line after testing background process=ls
+-isBackground=0
+
+-isExit=false
+-isEmpty=false
+-final input after shaving:ls
+-i will split user input on delemeter "\\s" {space}
+-i will execute command
+-parent pid is:14838
+
+-{this is parent process}. not background. parent process will wait for child to exit
+-child process created successfully and pid is 14840
+
+-******************Child process was terminated*******************
+
+-______________________________________________________________
+
+-i will notify user to write command
+-i will read command to variable {line}
+-line entered is:ls
+-line after tolower:ls
+-line after removintg extra spaces:ls
+-line after removing prefix and postfix spaces:ls
+-line after testing background process=ls
+-isBackground=0
+
+-isExit=false
+-isEmpty=false
+-final input after shaving:ls
+-i will split user input on delemeter "\\s" {space}
+-i will execute command
+-parent pid is:14838
+
+-{this is parent process}. not background. parent process will wait for child to exit
+-child process created successfully and pid is 14841
+
+-******************Child process was terminated*******************
+
+-______________________________________________________________
+
+-i will notify user to write command
+-i will read command to variable {line}
+-line entered is:history
+-line after tolower:history
+-line after removintg extra spaces:history
+-line after removing prefix and postfix spaces:history
+-line after testing background process=history
+-isBackground=0
+
+-isExit=false
+-isEmpty=false
+-final input after shaving:history
+-i will split user input on delemeter "\\s" {space}
+-______________________________________________________________
+
+-i will notify user to write command
+-i will read command to variable {line}
+-line entered is:exit
+-line after tolower:exit
+-line after removintg extra spaces:exit
+-line after removing prefix and postfix spaces:exit
+-line after testing background process=exit
+-isBackground=0
+
+-isExit=true
+EXITTING :)
+
+-******************Child process was terminated*******************

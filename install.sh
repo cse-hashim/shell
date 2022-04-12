@@ -1,0 +1,2 @@
+sudo cp Shell /bin/
+
